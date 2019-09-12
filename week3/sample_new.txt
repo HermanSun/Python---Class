@@ -1,0 +1,7 @@
+name|age|gender
+amy|10|f
+bob|12|m
+cathy|14|f
+dave|11|m
+ethan|13|m
+fiona|10|f
